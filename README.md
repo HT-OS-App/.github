@@ -1,0 +1,2 @@
+# .github
+Powering the organisation.
